@@ -1,5 +1,10 @@
 # 资源列表
 
+## Python 官方
+
+官网：https://www.python.org/
+文档（Python3）：https://docs.python.org/3/
+
 ## Anaconda（Python 3.5）
 
 百度云：链接: <https://pan.baidu.com/s/1o82RDhw> 密码: r2uw
